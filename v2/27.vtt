@@ -1,0 +1,70 @@
+WEBVTT
+
+00:00:01.324 --> 00:00:24.861
+In questo video vediamo la logistica di un evento: dove ci si trova, come ci si sposta, e quanto costano i trasporti e i luoghi. Sono tre moduli: Ritrovo e spostamenti, Trasporti e Locazioni. Il bello è che da qui il sito calcola da solo i chilometri e una stima dell’impronta di anidride carbonica, e porta i costi nella quota. Facciamolo con calma, passo dopo passo.
+
+00:00:25.456 --> 00:00:44.124
+Come esempio usiamo l’Uscita al fiume, di domenica ventinove novembre duemilaventisei. Dal Calendario premi Apri. Abbiamo già segnato chi viene, come nel video precedente: Anna e quattordici ragazzi. Il sito usa questi numeri per i calcoli, quindi conviene indicarli per primi.
+
+00:00:44.595 --> 00:00:59.148
+Apriamo il modulo Ritrovo e spostamenti. Sotto il titolo c’è scritto cosa contiene: luogo, spostamenti, chilometri e anidride carbonica. In alto a destra c’è il menu Referente, per indicare chi se ne occupa.
+
+00:00:59.633 --> 00:01:13.197
+Si comincia dal luogo di ritrovo. Se vi trovate in sede, c’è una scorciatoia: il pulsante Usa l’indirizzo della sede. Lo premo, e il luogo si compila da solo con l’indirizzo che hai scritto in Il mio contesto.
+
+00:01:13.690 --> 00:01:31.024
+Se invece vi trovate altrove, scrivi tu il luogo. Cancello e scrivo Piazza del Popolo, Pesaro. Poi premi Cerca l’indirizzo: il sito cerca il posto su OpenStreetMap, e per questo serve internet. Compare un elenco, e tu scegli quello giusto.
+
+00:01:31.562 --> 00:01:44.416
+Dopo la scelta, sotto compare un collegamento: toccandolo si apre Maps, e puoi verificare di aver scelto il punto giusto. Se la ricerca non trova il posto, c’è anche un campo dove incollare il link di Google Maps.
+
+00:01:44.920 --> 00:01:54.411
+Poi l’ora di ritrovo. Apri il menu: gli orari vanno di cinque minuti in cinque minuti, a partire dalle sei del mattino. Scegliamo le otto e mezza.
+
+00:01:54.925 --> 00:02:12.419
+Il rientro. Di solito si torna dove si è partiti, e infatti la casella Rientro nello stesso luogo della partenza è spuntata. Se invece si rientra altrove, togli la spunta: compare il campo Luogo di rientro, da compilare come il ritrovo. Poi la rimettiamo.
+
+00:02:12.956 --> 00:02:18.781
+Anche per il rientro scegli l’ora, dal menu. Mettiamo le cinque e mezza del pomeriggio.
+
+00:02:19.357 --> 00:02:34.985
+Ora, dove si svolge l’attività. Ci sono quattro scelte: In sede, All’aperto vicino, Uscita, e Altro. Le prime due sono per attività senza spostamenti importanti. Noi andiamo al fiume, quindi scegliamo Uscita.
+
+00:02:35.487 --> 00:02:50.825
+Compare il Luogo dell’attività. Scrivo Fiume Foglia, Montecchio, e premo Cerca. Anche qui scegli dall’elenco il punto giusto. Sotto vedi la Partenza: di solito è il luogo di ritrovo, ed è scritto che si parte da lì.
+
+00:02:51.316 --> 00:03:11.150
+Poi come vi spostate: a piedi, in bici, in treno, in bus o pullman, in auto, oppure altro. Passiamo in rassegna le scelte, e alla fine scegliamo Auto. Appena scegli, il sito calcola da solo i chilometri, andata e ritorno, e te lo scrive: qui sono ventotto chilometri su strada.
+
+00:03:11.627 --> 00:03:23.957
+Il numero che compare lo puoi sempre correggere a mano, nel campo Km andata e ritorno. Per esempio, se sai che la strada è un’altra. E il pulsante Calcola distanza lo rifà in qualsiasi momento.
+
+00:03:24.485 --> 00:03:49.080
+Con l’auto, ti chiede anche quante persone viaggiano in ogni auto. Di solito sono quattro, e va bene così: lo puoi cambiare quando vuoi. Il sito divide i presenti per il numero di auto che servono, e stima l’impronta di anidride carbonica del viaggio: circa diciannove chili in auto, contro i circa dodici del treno e gli undici del pullman. È una stima indicativa, ma aiuta a ragionare insieme ai ragazzi sulle scelte.
+
+00:03:49.642 --> 00:03:58.471
+Se cambi il mezzo, la stima si aggiorna subito. Proviamo il pullman: il numero scende. Poi torniamo all’auto, che è quello che useremo.
+
+00:03:59.001 --> 00:04:29.080
+In fondo c’è la parte Spostamenti. Qui aggiungi i trasferimenti della giornata, soprattutto per le uscite con più tappe. Negli eventi di più giorni la parte si chiama Spostamenti durante l’evento, e si apre cliccando sulla giornata. Per ogni spostamento indichi partenza, arrivo, ora, mezzo, quante persone viaggiano, i chilometri e se è solo andata o anche ritorno. Il pulsante Calcola i km fa il conto da solo. Lo aggiungo per mostrartelo, e poi lo tolgo.
+
+00:04:29.690 --> 00:04:45.206
+Passiamo al modulo Trasporti: qui metti le spese del viaggio, cioè pullman, treno, biglietti e carburante. Le ore, i chilometri e l’anidride carbonica, ricorda, stanno in Ritrovo e spostamenti: qui contano solo i soldi.
+
+00:04:45.728 --> 00:05:05.776
+Scrivi cos’è, per esempio Pullman andata e ritorno. Poi l’importo in euro: centottanta. Poi Come si calcola: a forfait, cioè una cifra unica; a persona; a ragazzo; oppure a persona per notte. Noi scegliamo a forfait, perché il pullman costa la stessa cifra in blocco.
+
+00:05:06.534 --> 00:05:28.784
+Poi Chi paga: i ragazzi, con la quota; l’Unità; il Gruppo; la Sezione; oppure Altro. Se paga l’Unità, la cifra non entra nella quota dei ragazzi. Qui scegliamo Ragazzi, quota. Con Aggiungi un trasporto crei una nuova riga, e in alto compare il totale: centottanta euro.
+
+00:05:29.276 --> 00:05:49.331
+Il terzo modulo è Locazioni: case, strutture, terreno, energia, pulizie. Funziona nello stesso modo dei trasporti. Per esempio: Sala per il pranzo, sessanta euro a forfait, a carico dell’Unità. Mi fermo a mostrartelo, perché, una volta capito un modulo, gli altri sono uguali.
+
+00:05:49.971 --> 00:06:04.931
+In fondo a Locazioni trovi Altre spese: ingressi, assicurazione, materiale da comprare. Anche queste le inserisci con descrizione, importo, come si calcola e chi paga, e vanno a finire nella quota se le paga la quota.
+
+00:06:05.442 --> 00:06:31.839
+E dove va a finire tutto questo? In Quota. Apriamo il modulo: i trasporti e le locazioni che hai segnato come a carico dei ragazzi si sommano nella cassa, e il sito calcola la quota a testa: con il pullman da centottanta euro e quattordici ragazzi, sono circa dodici euro e ottantasei a testa. La sala pagata dall’Unità non pesa sulla quota. Il materiale e il cibo, invece, si contano da soli dai moduli Materiali e Pasti.
+
+00:06:32.345 --> 00:06:47.509
+Ricapitoliamo. In Ritrovo e spostamenti: luogo, ora, rientro, mezzo, chilometri e anidride carbonica. In Trasporti e Locazioni: le spese, e chi le paga. Grazie, e a presto.
